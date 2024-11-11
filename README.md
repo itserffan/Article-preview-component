@@ -37,5 +37,5 @@ working with absolute and relative position for making share bubble.
 
 ## Author
 
-- Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/erfansoleimanii)
-- Twitter - [@itserffan](https://www.twitter.com/itserffan)
+- Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/itserffan)
+- GitHub - [@itserffan](https://github.com/itserffan)
